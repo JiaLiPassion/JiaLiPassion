@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://dev.to/jialipassion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jialipassion" height="30" width="40" /></a>
 <a href="https://twitter.com/jialipassion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jialipassion" height="30" width="40" /></a>
-<a href="https://qiita.com/Jialipassion" target="blank"><img align="center" src="https://raw.githubusercontent.com/JiaLiPassion/JiaLiPassion/main/images/image-qiita_brand_color.png" alt="jialipassion" height="30" width="40" /></a>
+<a href="https://qiita.com/Jialipassion" target="blank"><img align="center" src="https://raw.githubusercontent.com/JiaLiPassion/JiaLiPassion/main/images/qiita.png" alt="jialipassion" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jialipassion&show_icons=true&locale=en" alt="jialipassion" /></p>
