@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jia Li</h1>
 <h3 align="center">A passionate developer, the code owner of angular/zone.js, and the Angular collaborator.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jialipassion&label=Profile%20views&color=0e75b6&style=flat" alt="jialipassion" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jialipassion" alt="jialipassion" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jialipassion" target="blank"><img src="https://img.shields.io/twitter/follow/jialipassion?logo=twitter&style=for-the-badge" alt="jialipassion" /></a> </p>
 
 - 🔭 I’m currently working on [angular/zone.js](https://github.com/angular/angular)
