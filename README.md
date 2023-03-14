@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jialipassion" target="blank"><img src="https://img.shields.io/twitter/follow/jialipassion?logo=twitter&style=for-the-badge" alt="jialipassion" /></a> </p>
 
-- 🔭 I’m currently working on [angular/zone.js](https://github.com/angular/angular)
+- 🔭 I’m currently working on [angular/zone.js](https://github.com/angular/angular/tree/main/packages/zone.js)
 
 - :tada: I'm the [Angular collaborator](https://angular.io/about?group=Collaborators)
 
